@@ -2,8 +2,6 @@
 
 **Headlines Hub** is a news aggregation application built using **React.js**, designed to deliver the latest top headlines and breaking news from various sources. With features like category filtering and real-time updates, it provides users with a seamless experience to stay informed.
 
-## Demo
-The API provider did not allow for free deployment. So here is the demo video link: [Demo Video](https://drive.google.com/file/d/19NZa726rbiizM1Yl9K_dU7kNQUfoy3jm/view?usp=drive_link).
 
 **Deployed link**: [Headlines Hub]() (Note: You will not be able to see any articles due to restrictions provided by the API provider).
 
